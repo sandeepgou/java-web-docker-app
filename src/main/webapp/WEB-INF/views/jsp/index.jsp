@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Ashok-IT New Website</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
+			<h2>Welcome to IPL-Betting</h2>
+			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 / 7846064317</h3>
 		</div>	
 	</div>
 
